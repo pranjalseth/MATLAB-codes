@@ -1,3 +1,5 @@
+%% Pranjal Seth
+
 function E = equations( Var )
 % EQUATIONS FOR FSOLVE as per: AIAA 2005-7357
 %   Simultaneous Non Linear equations for FSOLVE function
