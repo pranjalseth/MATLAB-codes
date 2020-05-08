@@ -1,0 +1,6 @@
+LoopDeLoop.m - iterative program
+yields guess values to be passed with FSolve function in matlab
+
+PranjalInletProblem.m - main program
+
+
